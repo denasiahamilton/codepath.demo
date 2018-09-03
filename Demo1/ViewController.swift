@@ -45,8 +45,9 @@ class ViewController: UIViewController {
     }
     
     @IBAction func onResetGesture(_ sender: Any) {
-        textLabel.text = "Hello"
+        textLabel.text = "Hello - Denasia"
         view.backgroundColor = backgroundColor
+        textLabel.textColor = backgroundColor
     }
 
 
