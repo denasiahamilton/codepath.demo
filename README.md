@@ -6,7 +6,7 @@ Description: This application, created using xcode, allows the user to input tex
              to input different text, the user can tap on the top empty field and use the keyboard that appears (it will 
              disappear once the user taps "change text"). 
 
-<img src="YOUR_GIF_URL_HERE" width=200>
+<img src="http://g.recordit.co/G2cO4hbenn.gif" width=200>
 
 Required User Stories
 - [X] 1. User sees custom text in a label - Hello - Denasia
